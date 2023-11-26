@@ -12,3 +12,4 @@ Tenemos dos tipos de dominio los **CCTLD** y
 ## Características
 - Los dominios web se pueden compartir solo si tienen distinta extensión.
 - **URL != DNS**: Las URL no son iguales a las DNS ya que la URL esta destinada a buscar un recurso en la dirección asignada.
+- **Importancia:** Velocidad, Seguridad y privacidad, Bloqueo de publicidad (Pi-hole)

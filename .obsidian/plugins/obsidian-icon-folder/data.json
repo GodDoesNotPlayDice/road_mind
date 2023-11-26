@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiPackages",
-      "RaWoodenSign",
       "LiImage",
+      "FasPeopleArrows",
       "BoBxsFileDoc",
-      "BoBxsDirections"
+      "FasPassport",
+      "TiPackageExport"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,9 +28,16 @@
   },
   "Networks": "LiNetwork",
   "Networks/Domains": "RaWoodenSign",
-  "Networks/Domains/Que es un Dominio.md": "BoBxsFileDoc",
   "Networks/Domains/Images": "LiImage",
   "Networks/IPs": "BoBxsDirections",
   "Networks/IPs/Images": "LiImage",
-  "Networks/Network packages": "TiPackages"
+  "Networks/Network packages": "TiPackages",
+  "Networks/Ports": "FasPassport",
+  "Networks/Ports/Images": "LiImage",
+  "Networks/IPs/IP.md": "BoBxsFileDoc",
+  "Networks/Domains/DNS.md": "BoBxsFileDoc",
+  "Networks/Ports/Ports and Sockets.md": "BoBxsFileDoc",
+  "Networks/Peer to Peer": "FasPeopleArrows",
+  "Networks/Peer to Peer/P2P.md": "BoBxsFileDoc",
+  "Networks/Peer to Peer/Images": "LiImage"
 }

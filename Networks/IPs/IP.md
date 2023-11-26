@@ -8,7 +8,7 @@ Como nos comunicamos?
 ## Tipos de IP
 Los tipos de ip son importantes ya que nos ayudara a identificar que tipo de IP estamos tratando, ya sea de IPv4 o IPv6
 - **IPv4**: Principalmente son un numero binario de 32 bits, permitiendo un espacio de 2^32 de direcciones posibles. Las direcciones IP se pueden expresar como números de notación decimal, se dividen los 32 bits de la dirección en cuatro octetos, El valor decimal de cada octeto esta comprendido en el intervalo de 0 a 225.
-- **IPv6**: Es la evolucion de la **Ipv4** cuya alcanzaba solo 2^32 bits, este tipo de Ip alcanza 2^128, y esta se expresa en una notacion hexadecimal.
+- **IPv6**: Es la evolucion de la **Ipv4** cuya alcanzaba solo 2^32 bits, este tipo de Ip alcanza 2^128, y esta se expresa en una notacion hexadecimal, la unica caracteristica es que tendriamos una unica IP para cada dispositivo.
 - **IP-Publica**: La IP publica es la cual sale del router al internet, y es una direccion unica en todo el mundo.
 - ![[Pasted image 20231123165336.png]]![[Pasted image 20231124175749.png]]
 

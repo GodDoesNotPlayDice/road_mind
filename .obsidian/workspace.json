@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f67d2f08a6f0b919",
+        "id": "f8dafdc2f356c56d",
         "type": "tabs",
         "children": [
           {
-            "id": "f9a4c86c5a9f1094",
+            "id": "1f9a62b804b04165",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/IPs/IP, ISP, Internet, etc....md",
+                "file": "Networks/Ports/Ports and Sockets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/IPs/IP, ISP, Internet, etc....md",
+                "file": "Networks/Ports/Ports and Sockets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/IPs/IP, ISP, Internet, etc....md",
+                "file": "Networks/Ports/Ports and Sockets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/IPs/IP, ISP, Internet, etc....md"
+                "file": "Networks/Ports/Ports and Sockets.md"
               }
             }
           }
@@ -146,25 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9a4c86c5a9f1094",
+  "active": "f40a5c963d9bea0e",
   "lastOpenFiles": [
+    "Networks/Peer to Peer/P2P.md",
+    "Networks/Peer to Peer/Images",
+    "Networks/Peer to Peer/Images/Pasted image 20231126132940.png",
+    "Networks/Ports/Ports and Sockets.md",
+    "Networks/Peer to Peer",
+    "Networks/Domains/DNS.md",
+    "Networks/Ports/Images/Pasted image 20231126132004.png",
+    "Networks/Ports/Images/Pasted image 20231126130242.png",
+    "Networks/Ports/Images/Pasted image 20231126125818.png",
+    "Networks/Ports/Images/Pasted image 20231126123912.png",
+    "Networks/IPs/IP.md",
+    "Networks/Ports/Images",
+    "Networks/Ports",
     "Networks/IPs/Images/Pasted image 20231125121936.png",
-    "Networks/IPs/IP, ISP, Internet, etc....md",
     "Networks/IPs/Images/Pasted image 20231125123210.png",
     "Networks/IPs/Images/Pasted image 20231125121943.png",
     "Pasted image 20231125121857.png.md",
     "Pasted image 20231125121857.png",
     "Networks/IPs/Images/Pasted image 20231125121152.png",
-    "Networks/IPs/Images/Pasted image 20231125113139.png",
     "Networks/Network packages",
     "Networks/IPs/Quien provee una IP.md",
-    "Networks/Domains/Que es un Dominio.md",
-    "Networks/IPs/Images/Pasted image 20231124175749.png",
-    "Networks/IPs/Images/Pasted image 20231123165336.png",
     "Networks/IPs/Images",
     "Networks/IPs/Untitled.canvas",
     "Networks/IPs",
-    "Networks/Domains/Images/Pasted image 20231123105842.png",
     "Networks/Domains/Images",
     "Networks/Domains",
     "Networks"
