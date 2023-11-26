@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiPackages",
+      "RaWoodenSign",
+      "LiImage",
+      "BoBxsFileDoc",
+      "BoBxsDirections"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "Networks": "LiNetwork",
+  "Networks/Domains": "RaWoodenSign",
+  "Networks/Domains/Que es un Dominio.md": "BoBxsFileDoc",
+  "Networks/Domains/Images": "LiImage",
+  "Networks/IPs": "BoBxsDirections",
+  "Networks/IPs/Images": "LiImage",
+  "Networks/Network packages": "TiPackages"
+}
