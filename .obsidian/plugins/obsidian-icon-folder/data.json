@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiImage",
-      "FasPeopleArrows",
-      "BoBxsFileDoc",
-      "FasPassport",
-      "TiPackageExport"
+      "FasCode",
+      "SiDocker",
+      "SiDart",
+      "SiFlutter",
+      "IbGames"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,15 @@
   "Networks/Ports/Ports and Sockets.md": "BoBxsFileDoc",
   "Networks/Peer to Peer": "FasPeopleArrows",
   "Networks/Peer to Peer/P2P.md": "BoBxsFileDoc",
-  "Networks/Peer to Peer/Images": "LiImage"
+  "Networks/Peer to Peer/Images": "LiImage",
+  "Hacking": "SiHackaday",
+  "Hacking/Vulnhub": "SiV",
+  "Rust": "SiRust",
+  "Hacking/Game Hacking": "IbGames",
+  "Flutter": "SiFlutter",
+  "Dart": "SiDart",
+  "Docker": "SiDocker",
+  "Web": "FasCode",
+  "Web/React": "SiReact",
+  "Web/React/Fernando Herrera - Udemy.md": "BoBxsFileDoc"
 }
